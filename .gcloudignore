@@ -1,0 +1,6 @@
+venv/
+.git/
+gcloud_sdk/
+gcloud.zip
+__pycache__/
+*.pyc
